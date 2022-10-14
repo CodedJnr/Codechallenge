@@ -1,0 +1,16 @@
+C:\Users\mobak\Desktop\Bismillah\bin\Debug\net5.0\Bismillah.exe
+C:\Users\mobak\Desktop\Bismillah\bin\Debug\net5.0\Bismillah.deps.json
+C:\Users\mobak\Desktop\Bismillah\bin\Debug\net5.0\Bismillah.runtimeconfig.json
+C:\Users\mobak\Desktop\Bismillah\bin\Debug\net5.0\Bismillah.runtimeconfig.dev.json
+C:\Users\mobak\Desktop\Bismillah\bin\Debug\net5.0\Bismillah.dll
+C:\Users\mobak\Desktop\Bismillah\bin\Debug\net5.0\ref\Bismillah.dll
+C:\Users\mobak\Desktop\Bismillah\bin\Debug\net5.0\Bismillah.pdb
+C:\Users\mobak\Desktop\Bismillah\obj\Debug\net5.0\Bismillah.csproj.AssemblyReference.cache
+C:\Users\mobak\Desktop\Bismillah\obj\Debug\net5.0\Bismillah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobak\Desktop\Bismillah\obj\Debug\net5.0\Bismillah.AssemblyInfoInputs.cache
+C:\Users\mobak\Desktop\Bismillah\obj\Debug\net5.0\Bismillah.AssemblyInfo.cs
+C:\Users\mobak\Desktop\Bismillah\obj\Debug\net5.0\Bismillah.csproj.CoreCompileInputs.cache
+C:\Users\mobak\Desktop\Bismillah\obj\Debug\net5.0\Bismillah.dll
+C:\Users\mobak\Desktop\Bismillah\obj\Debug\net5.0\ref\Bismillah.dll
+C:\Users\mobak\Desktop\Bismillah\obj\Debug\net5.0\Bismillah.pdb
+C:\Users\mobak\Desktop\Bismillah\obj\Debug\net5.0\Bismillah.genruntimeconfig.cache
